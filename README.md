@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimitriribeiro
 - 👀 I’m interested in science, fellings, studying technologies, coding and data visualization. 
-- 🌱 I’m currently learning Statistics, Pharmacy, Programming Languages(Python, MySQL, PowerBI, Google Sheets and Linux)
+- 🌱 I’m currently learning Statistics, Pharmacy, Programming Languages(Python, MySQL, PowerBI, Google Sheets and Linux). Besides, I'm doing my notebook in Jupyter and Colab plataforms.
 - 💞️ I’m looking to collaborate on Data Science and Statistical Analysis projects.
 - 📫 How to reach me by the email dimitri.limaf@gmail.com or by institutional e-mail dimitri.lima.007@ufrn.edu.br
 
