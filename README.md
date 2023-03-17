@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @dimitriribeiro
-- 👀 I’m interested in science, fellings, studying technologies, coding and data visualization. 
-- 🌱 I’m currently learning Statistics, Pharmacy, Programming Languages(Python, MySQL, PowerBI, Google Sheets and Linux). Besides, I'm doing my notebook in Jupyter and Colab plataforms.
-- 💞️ I’m looking to collaborate on Data Science and Statistical Analysis projects.
-- 📫 How to reach me by the email dimitri.limaf@gmail.com or by institutional e-mail dimitri.lima.007@ufrn.edu.br
+# De quem é esse repositório?
+![logo do meu portfólio](https://drive.google.com/file/d/1E2MdF7wbpbFafvVUuZKUN9T02RNaxm4U/view?usp=share_link)
+Rápida descrição do objetivo de fazer esse projeto
 
-<!---
-dimitriribeiro/dimitriribeiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Titulo do meu projeto**
+| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Detalhes do projeto
+
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
